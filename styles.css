@@ -71,14 +71,14 @@ body {
 .weather h1 {
   font-size: 80px;
   font-weight: 500;
-  color: #ebfffc;
+  color: white;
 }
 
 .weather h2 {
   font-size: 45px;
   font-weight: 400;
   margin-top: -10px;
-  color: #ebfffc;
+  color: white;
 }
 
 .details {
@@ -88,7 +88,7 @@ body {
   gap: 40px;
   padding: 0 20px;
   margin-top: 50px;
-  color:#ebfffc;
+  color:white;
 }
 
 .col {
@@ -105,7 +105,7 @@ body {
 .humidity,.wind {
   font-size: 20px;
   margin-top: -6px;
-  color:#ebfffc;
+  color:white;
 }
 
 .weather {
@@ -118,5 +118,5 @@ body {
   font-size: 14px;
   margin-top: 10px;
   display: none;
-  color: rgb(240, 239, 246);
+  color: white;
 }
