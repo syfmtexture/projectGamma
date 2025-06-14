@@ -24,8 +24,8 @@ body {
 .card {
   width: 90%;
   max-width: 470px;
-  background: rgba(173, 1, 253, 0.194);
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  background: rgba(137, 137, 137, 0.098);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.217);
   margin: 100px auto 0;
   border-radius: 20px;
   padding: 40px 35px;
